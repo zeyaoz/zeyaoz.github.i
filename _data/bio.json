@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "zeyaoz", "url": "http://github.com/zeyaoz" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/zeyao-zhou-943740335" }
+      { "network": "linkedin", "username": "zeyaozhou", "url": "http://linkedin.com/in/zeyao-zhou-943740335" }
     ]
   },
   "interests": [
@@ -42,15 +42,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa Catalog Office",
+      "position": "Office Assistant",
+      "website": "http://manoa_hawaii.catalog.acalog.com/",
+      "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assistant in Program & Course Implementation in the UHM Catalog",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assists the Catalog Office with creating, modifying, and proofreading courses," ,
+        "degree requirements, and 4-year plans on the University of Hawaiʻi at Mānoa catalog."
       ]
     },
     {
