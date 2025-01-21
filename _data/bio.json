@@ -95,21 +95,33 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Certificate of Completion",
+      "date": "12-5-2024",
+      "awarder": "NIWC LANT/NIWC PAC",
+      "summary": "Certificate awarded for successful completion of the NIWC LANT/NIWC PAC internship program in partnership with the University of Hawaii for the academic year 2024."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Academic Honors Recognition Certificate",
+      "date": "5-18-2023",
+      "awarder": "State of Hawaii Department of Education",
+      "summary": "Certificate awarded to graduating high school seniors who has fufilled all requirements for Academic Honors Recognition Certificate from President Theodore Roosevelt High School."
+    },
+    {
+      "title": "Career and Technical Education Honors Recognition Certificate",
+      "date": "5-18-2023",
+      "awarder": "State of Hawaii Department of Education",
+      "summary": "Certificate awarded to graduating high school seniors who has fufilled all requirements for CTE Honors Recognition Certificate from President Theodore Roosevelt High School."
+    },
+    {
+      "title": "Science, Technology, Engineering and Mathematics Honors Recognition Certificate",
+      "date": "5-18-2023",
+      "awarder": "State of Hawaii Department of Education",
+      "summary": "Certificate awarded to graduating high school seniors who has fufilled all requirements for STEM Honors Recognition Certificate from President Theodore Roosevelt High School."
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request."
     }
   ]
 }
