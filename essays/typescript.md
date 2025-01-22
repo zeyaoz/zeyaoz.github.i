@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript/saping.png">
+<img width="200px" class="rounded float-start pe-4" src="./img/typescript/saping.png">
 
 *Let me branch out once again, so that I may experience something new every time I grow.*
 
