@@ -9,7 +9,7 @@ labels:
   - Vim
   - Unix
   - C
-summary: "A bank database application that I developed for ICS 212."
+summary: "A bank database application that I developed for ICS 212 in the C programming language."
 ---
 
 <img width="200px" class="img-fluid" src="../img/CLogo.png">
