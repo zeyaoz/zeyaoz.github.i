@@ -12,7 +12,7 @@ labels:
 summary: "A showcase of example Input/Output functions in C to read and write data from a .txt file."
 ---
 
-<img class="img-fluid" src="../img/PokeIcon.png">
+<img width="200px" class="img-fluid" src="../img/PokeIcon.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
