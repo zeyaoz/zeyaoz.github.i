@@ -13,13 +13,7 @@ labels:
 
 *Let me branch out once again, so that I may experience something new every time I grow.*
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+As one of the first assignments of my software development class, I was tasked with learning first the basic JavaScript programming language, a language that I was already familiar with through my experience gained in high school. As with all other programming languages I have learned so far, JavaScript was easy to grasp through the foundational elements of most programming languages, such as variables, data types, operators, and functions. Honestly, it is truly awesome to experience that prior knowledge in the field of programming can be easily applied to new topics that one has not learned yet. 
 
 ## In the context of programming
 
