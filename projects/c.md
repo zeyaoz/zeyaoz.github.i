@@ -8,6 +8,7 @@ published: true
 labels:
   - Vim
   - Unix
+  - C
 summary: "A bank database application that I developed for ICS 212."
 ---
 
