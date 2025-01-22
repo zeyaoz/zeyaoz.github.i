@@ -11,7 +11,7 @@ labels:
 summary: "A bank database application that I developed for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/CLogo.png">
+<img width="200px" class="img-fluid" src="../img/CLogo.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
