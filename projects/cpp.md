@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
-published: false
+image: img/Cpp.jpg
+title: "Bank Database application in C++"
+date: 2024
+published: True
 labels:
-  - Robotics
-  - Arduino
+  - Vim
+  - Unix
   - C++
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
