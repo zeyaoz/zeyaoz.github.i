@@ -13,9 +13,9 @@ summary: "A showcase of example Input/Output functions in C to read and write da
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="img/bulbasaur.png" class="img-thumbnail" >
-  <img width="200px" src="img/charmander.png" class="img-thumbnail" >
-  <img width="200px" src="img/squirtle.png" class="img-thumbnail" >
+  <img width="200px" src="../img/bulbasaur.png" class="img-thumbnail" >
+  <img width="200px" src="../img/charmander.png" class="img-thumbnail" >
+  <img width="200px" src="../img/squirtle.png" class="img-thumbnail" >
 </div>
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
