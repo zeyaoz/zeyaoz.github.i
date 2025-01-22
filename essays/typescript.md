@@ -54,4 +54,6 @@ Fully matured, the tree was ready to bear fruit, but for whom? \
 
 ## The fruits of my labor
 
+<img width="200px" class="rounded float-start pe-4" src="../img/typescript/tree.png">
+
 ***To produce fruits of labor that is pleasing is of the utmost importance, and to release moisture into the neverending river of knowledge is of the greatest honor, for the day that I pass on in life I may also know that I have passed on products that is worthy to be used to nurture a new generation, who shall do the same forevermore.***
