@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PokeLogo.png
+image: img/PokeIcon.png
 title: "Pokemon I/O function showcase in C"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A showcase of example Input/Output functions in C to read and write data from a .txt file."
 ---
 
-<img class="img-fluid" src="../img/PokeLogo.png">
+<img class="img-fluid" src="../img/PokeIcon.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
