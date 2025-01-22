@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cpp.jpg
+image: img/CppLogo.jpg
 title: "Bank Database application in C++"
 date: 2024
 published: True
