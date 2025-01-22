@@ -14,47 +14,98 @@ summary: "A bank database application that I developed for ICS 212 in the C prog
 
 <img width="200px" class="img-fluid" src="../img/bank.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This project was about creating a C application that can take, store, and modify user accounts of a bank through storing the information in a .txt file. Through a large menu interface, the user could specify if they wanted to add a new record to the database, print all records from the database, find a record with a specific account number, delete a specific record from the database, or quit the application. On startup, the database information would be automatically loaded in from a specific .txt file and on quit, the databse information would be automatically written to a specific .txt file.
 
-To give you a flavor of the game, here is an excerpt from one run:
+My role in this project was its creation in its entirety. I implemented this application through the UH Unix interface in the Vim text editor program where I was responsible for 100% of the work.
 
-<hr>
+In this project, I gained experience with the major operations of the C programming language as well as implementing a complete bank databse application that covers many aspects of C programming which includes but is not limited to dynamically allocating memory on the heap that mimics a linked list data structure.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Here is some example code of the findRecord function that I used in my application:
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+```
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+/*****************************************************************
+//
+//  Function name: findRecord
+//
+//  DESCRIPTION:   Finds a user's record with the specified
+//                 account number.
+//
+//  Parameters:    start (struct record *) : A pointer of struct
+//                                           record. Represents
+//                                           the start of the list
+//                                           of records.
+//                 accountno (int) : This integer represents the
+//                                   account number of the record
+//                                   being searched for.
+//
+//  Return values: 0 : Record was found successfully.
+//                -1 : Record could not be found.
+//
+****************************************************************/
 
-pickup candle
-- you are now carrying the candle -
+int findRecord(struct record *start, int accountno)
+{
 
-pickup match
-- you are now carrying the match -
+    /*Initialize a pointer to a record set to the start of the
+    heap list.*/
 
-light match candle
+    struct record *current = start;
 
-The candle is now lit. It illuminates everything in the room.
+    /*Initialize integer variables "isFound" to determine if a
+    record has been found in the heap list and "result" to return
+    the integer output of the function, currently set to -1
+    (unsuccessful)*/
 
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
+    int isFound = 0;
+    int result = -1;
 
-<hr>
+    /*[DEBUG] mode information verification output.*/
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+    if (debugmode)
+    {
+        printf("\n[DEBUG]: Function called: findRecord\n");
+        printf("[PARAMETER]: accountno, Value: %d\n\n", accountno);
+    }
+
+    /*While the end of the heap list has not been reached:*/
+
+    while (current != NULL)
+    {
+
+        /*if the accountno of the current record matches the
+        accountno being searched for,*/
+
+        if (current -> accountno == accountno)
+        {
+
+            /*Print the record information to the user, and set
+            the integer variables accordingly to let the function
+            know that the record as been found successfully.*/
+
+            printf("\nAccount Number: %d\n", current -> accountno);
+            printf("Name: %s\n", current -> name);
+            printf("Address: %s\n\n", current -> address);
+            isFound = 1;
+            result = 0;
+        }
+
+        /*Set the current record to the next record in the
+        heap list.*/
+
+        current = current -> next;
+    }
+
+    /*If the record was not found, notify the user.*/
+
+    if (!isFound)
+    {
+        printf("\nRecord not found with account number %d\n", accountno);
+    }
+    return result;
+}
+
+```
+
+Notice how I love to provide long and descriptive comments on how my code works. I have always taken pride in explaining code thorughly to other people through commenting, and I plan to continue coding in this system for all future personal projects.
+
