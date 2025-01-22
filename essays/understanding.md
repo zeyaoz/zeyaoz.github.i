@@ -14,7 +14,7 @@ labels:
 <img width="100px" class="rounded float-start pe-4" src="../img/lightbulb.jpg">
 
 ```
-//Coding used to be easy.
+//Understanding used to be easy.
 ```
 
 Programming class back in high school was so very simple compared to now. Starting in html, basic programming principles went by with a breeze. Website project? Done with no difficulty. If only I had known what more I had to learn to be employable...
@@ -104,5 +104,5 @@ I may not remember a topic after a while, I may forget, but I will make sure tha
 I understand it now.
 
 ```
-//Understanding might not be easy, but I will make it easy.
+//Understanding it again might not be easy, but I will make it easy.
 ```
