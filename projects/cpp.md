@@ -14,22 +14,80 @@ summary: "A bank database application that I converted from the C programming la
 
 <img width="200px" class="img-fluid" src="../img/bank.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project was about transforming a prior C application that can take, store, and modify user accounts of a bank through storing the information in a .txt file into a C++ application that was functionally the same. Through a large menu interface, the user could specify if they wanted to add a new record to the database, print all records from the database, find a record with a specific account number, delete a specific record from the database, or quit the application. On startup, the database information would be automatically loaded in from a specific .txt file and on quit, the databse information would be automatically written to a specific .txt file. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+My role in this project was its creation in its entirety. I implemented this application through the UH Unix interface in the Vim text editor program where I was responsible for 100% of the work.
 
-Here is some code that illustrates how we read values from the line sensors:
+In this project, I gained experience with the connection between the C and C++ programming language, transforming C code to its C++ equivalent as well as implementing a complete bank databse application that covers many aspects of C++ programming which includes but is not limited to dynamically allocating memory on the heap that mimics a linked list data structure.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+Here is some example code of an overloaded operator "<<" that I used in my application:
+
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+/*****************************************************************
+//
+//  Function name: operator<<
+//
+//  DESCRIPTION:   This function overloads the "<<"
+//                 operator in order to allow all records of this
+//                 database to be printed directly without using
+//                 the printAllRecords() class.
+//
+//  Parameters:    os (ostream &) : Contains the reference to the
+//                                  output stream, where the
+//                                  formatted output will be sent.
+//                 list (const llist&) : The constant reference to
+//                                       the other llist object,
+//                                       ensuring the other object
+//                                       is not modified during
+//                                       the process.
+//
+//  Return values: ostream & : Contains the same output stream
+//                             after appending the formatted data.
+//
+****************************************************************/
+
+std::ostream& operator<<(std::ostream& os, const llist& list)
+{
+
+    /*[DEBUG] mode information verification outout.*/
+
+    #ifdef DEBUG
+        std::cout << "\n[DEBUG]: Overloaded (<<) operator of the llist class called.\n";
+    #endif
+
+    /*Initialize a pointer to the first node of the other linked
+    list.*/
+
+    record* current = list.start;
+
+    /*If the current record is NULL, the datbase must be empty.*/
+
+    if (current == NULL) {
+        os << "\nNo records found in database.\n";
+    }
+    else
+    {
+
+        /*While the current record is not NULL,*/
+
+        while (current != NULL)
+        {
+
+            /*Append the details of the formatted current record
+            to the output stream, then move to the next node.*/
+
+            os << "\nAccount Number: " << current -> accountno << "\nName: " << current -> name << "\nAddress:\n" << current -> address << "\n\n";
+            current = current -> next;
+        }
+    }
+
+    /*Return the reference to the formatted output stream
+    containing all of the records.*/
+
+    return os;
+}
+
+```
+
+Notice how I love to provide long and descriptive comments on how my code works. I have always taken pride in explaining code thorughly to other people through commenting, and I plan to continue coding in this system for all future personal projects.
