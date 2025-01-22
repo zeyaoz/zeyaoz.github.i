@@ -26,7 +26,8 @@ In this project I gained experience with the C programming language as well as i
 
 Here is some example code of my readfile function:
 
-'''
+```
+
 /*****************************************************************
 //
 //  Function name: readfile
@@ -116,6 +117,7 @@ int readfile(struct pokemon pokearray[], int* num, char filename[])
 
     return 0;
 }
-'''
+
+```
 
 Notice how I love to provide long and descriptive comments on how my code works. I have always taken pride in explaining code thorughly to other people through commenting, and I plan to continue coding in this system for all future personal projects. 
