@@ -250,7 +250,7 @@ I have taken references from multiple websites but couldn't understand the solut
 ```
 ## Oof.
 
-Although this question is also very long, it contains just 4 broad sentences and the rest is a super long collection of unorganized code. The questioner wants to make his webpage dynamic by adding filter functionality, but the code provided does not state where or how he wants this to be implemented. The first time I saw this question I thought, a saint would have to devote a lot of time to really answering this question, but not me! The questioner also states that he visited multiple websites but still cannot understand the solution. This is a vacuous sentence that only serves to give the questioner a marginal amount of merit which will still not encourage anyone to tackle this extremely broad and unclear problem.
+Although this question is also very long, it contains just 4 broad sentences and the rest is a super long collection of unorganized code. The questioner wants to make his webpage dynamic by adding filter functionality, but the code provided does not state where or how he wants this to be implemented. The first time I saw this question I thought, a saint would have to devote a lot of time to really answering this question, but not me! The questioner also states that he visited multiple websites but still cannot understand the solution. This is a vacuous sentence that only serves to give the questioner a marginal amount of merit which will still not encourage anyone to tackle this extremely broad and unclear problem. Maybe try ChatGPT next time?
 
 Unsurprisingly, this question did not get a single answer and was closed for being too broad. 
 
