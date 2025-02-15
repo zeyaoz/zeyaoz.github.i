@@ -11,7 +11,7 @@ labels:
   - Programming Practices
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/lightbulb.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/handshake.jpg">
 
 ```
 //Understanding used to be easy.
