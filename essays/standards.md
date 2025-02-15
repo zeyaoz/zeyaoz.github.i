@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Making sure I understand"
+title: "Standards for All"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-22
+date: 2025-02-14
 published: true
 labels:
-  - Computer Science
   - Software Engineering
-  - Learning
+  - ESLint
+  - Programming Practices
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/lightbulb.jpg">
