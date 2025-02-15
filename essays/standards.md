@@ -11,98 +11,22 @@ labels:
   - Programming Practices
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/handshake.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/handshake.jpg">
 
 ```
-//Understanding used to be easy.
+//The standards of working with all.
 ```
 
-Programming class back in high school was so very simple compared to now. Starting in html, basic programming principles went by with a breeze. Website project? Done with no difficulty. If only I had known what more I had to learn to be employable...
+Standards of coding have been imposed on me ever since I started programming anything. Simple ideas such as the indentation of code blocks and spaces between operators have been universally taught ever since my first lessons in coding syntax before entering university. Throughout my classes in college, coding standards from basic conventions to rigid rules have been placed as the responsibility of the students to adhere to, and I have strived followed every single one. These coding standards are often tied to my standing in class, but I also sincerely believe that these standards are not only necessary for the convenience of the instructors but for our own sake as well.
 
-The early programming courses at the university were an extension of my high school class. Basic data structures were learned, variables, data types, functions, etc. However, as I was opened up to more complex topics such as discrete math and program structure, I found myself taking more time than ever to finish assignments. I asked myself this question: how could I ever remember all of these topics? 
+**The necessity of comprehension.**
 
-The option to create comments in my code had always been a feature I utilized when programming. The contrast in text color between the rigid, discrete elements of programming and the articulate, understandable sentences of my comments always made my code easier to understand, and gave me hope in firmly comprehending these subjects. 
+Why are these coding standards of all types and sizes imposed on us students? I can answer for our professors and teachers with confidence - they will be grading many versions of the same set of code and setting a specific standard for how all of them should look like is not only good practice but will make the process of grading significantly easier. A comparison I can see is instructors requiring essays to be submitted in a specific format - most often in .pdf form with the essay named correctly (name, class, section, and topic) so that they may be easily categorized. This is not unlike the standards we have for essays that are a part of the ICS 314 coursework - uploaded as a markdown file on GitHub, title and labels included. A comparison between coding standards and writing rubrics can also be made: coding standards are often considered to be the best way to maintain the quality of written code, and writing rubrics are guidelines on what the ideal essay should contain. We know that coding standards make our code neater for our instructors to grade, but there is also an arguably greater reason why these standards should be maintained for as long as one's career involves coding and collaboration. 
 
-As the assignments got more complicated, the time I spent understanding topics increased. How could I prove to not only myself but to everyone else that I truly understood these topics? 
+**The essentials of collaboration.**
 
-```
-void printAllRecords(struct record *start)
-{
-
-    /*Initialize a pointer to a record set to the start of the
-    heap list.*/
-
-    struct record *current = start;
-
-    /*[DEBUG] mode information verification output.*/
-
-    if (debugmode)
-    {
-        printf("\n[DEBUG]: Function called: printAllRecords\n\n");
-    }
-
-    /*If there are no records in the heap list,*/
-
-    if (current == NULL)
-    {
-        printf("\nNo records found in database.\n");
-    }
-
-    /*Otherwise, the heap list must contain 1 or more records.*/
-
-    else
-    {
-
-        /*While the end of the heap list has not been reached,*/
-
-        while (current != NULL)
-        {
-
-            /*Print the records to the user in a specificly
-            formatted way:
-            <accountno>
-            <name>
-            <address>
-            ...
-            <address>
-            <blank line>
-            <accountno>
-            ...
-            and so on.*/
-
-            printf("\nAccount Number: %d\n", current -> accountno);
-            printf("Name: %s\n", current -> name);
-            printf("Address: %s\n\n", current -> address);
-
-            /*Set the current record to the next record in the
-            heap list.*/
-
-            current = current -> next;
-        }
-    }
-}
-```
-
-Again and again I found myself explaining how each component of my code worked. This way, I will know exactly what everything does at a glance.
-
-Was it necessary?
-
-To learn a topic is extremely easy. Just take a glance and you have seen it. I could probably even get through the entirety of university with this method.
-
-But will this make me a educated, experienced, and employable? 
-
-I want to have fun. I want all of my assignments to go through smoothly. But, I also take pride in creating something that not only me but anyone else can see and then understand. 
-
-Taking the time to comment my thoughts into the code will make sure that I preserve the understanding in that program so it may one day benefit someone else in their work.
-
-I love software engineering. I sincerely want to take in all of the topics that are out there in the starry sky, understand them, and then move on to more. Taking the time to properly curate comments in my code is an experience I cherish every time I put my hands on the keyboard. 
-
-Developing skills is simply a product of understanding a topic deeply. I will strive to understand all that I can so that my skills may be developed and put forward in my future career. 
-
-I may not remember a topic after a while, I may forget, but I will make sure that I can understand it again.
-
-I understand it now.
+As this semester moves closer and closer to the incoming final project due at the end of the course, I've definitely thought about the people I would like to work with and the website I would like to create. Working with a group is given - it is not permitted or recommended to solo a coming project of this scale. As this is my first time dealing with a group project involving coding, I am very excited to contribute to the performance of my future team. Although we may all come from different coding backgrounds, a common coding standard - ESLint in this case - will be a standard we can all understand to be helpful to our project as it allows us to understand each other's contributed work more clearly. Developers in the workplace often do not work alone - many software coders frequently come together to develop an application that is worthy of being distributed to the masses, and the matter of the application's functionality is of utmost importance. As a future team member, my responsibility to those in my group includes making sure my work is of the highest quality, so that they may see it and understand its functionality perfectly. I understand that to collaborate effectively, the team must communicate with each other in a manner that is recognizable to all, so that individual tasks are completed effectively and help may be given when needed. Therefore, let these standards guide me as I create something not only for me to see, for my group to understand, for my professors to grade, but for the world to appreciate also. 
 
 ```
-//Understanding it again might not be easy, but I will make it easy.
+//Reading one's code may not be easy, but I will strive make it so.
 ```
