@@ -11,7 +11,7 @@ labels:
   - Programming Practices
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/bootstrap.png">
 
 ```
 //The standards of working with all.
