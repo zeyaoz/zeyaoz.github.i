@@ -1,17 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "Standards for All"
+title: "Structuring with Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-20
-published: false
+published: true
 labels:
   - Software Engineering
   - UI Frameworks
   - Programming Practices
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/handshake.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap.jpg">
 
 ```
 //The standards of working with all.
