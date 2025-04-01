@@ -38,4 +38,39 @@ This project will be structured similar to a renting/borrowing website with a ce
 Users will be able to log into the website, browse the directory for resources that are relevant to them through a specialized search function, and reserve items or rooms for later pick up and use. 
 Site Admins will be able to monitor the users that log into the website, see what resources they have used and borrowed, manage who can borrow what item, and add additional functionality to the website itself.
 
+**Components:**
+There will be 2 main categories for equipment and physical spaces. These 2 main catgories will also have their own subcategories based on types such as electronics for equipment or labs for physical spaces. Users will be able to choose what specific resource they would like to schedule for a set amount of time, and filter various resources based on relevance and availability. The users can receive confirmation messages and updates through their via their school email. Photos will be provided of all the resources for a friendlier user experience. Website administrators will be able to modify all of these components to fit the needs of the community, as well as make modifications based on real-life updates at UH Mānoa.
+
+**Possible Mockup Pages:**
+- Landing Page
+- User Home Page
+- User Profile Page
+- Website Introduction Page
+- Equipment Page
+- Borrow Equipment Page
+- Return Equipment Page
+- Rooms/Labs Page
+- Rent Rooms/Labs Page
+- Return Rooms/Labs Page
+- Admin Home Page
+- Configure Resourced Page
+
+## Use Case Ideas
+
+An end-to-end scenario of using the system:
+- New user enters landing page, signs up, logs into the system, and sets up their profile.
+- New user learns how to use the site through a introductory page they encounter before scheduling resources.
+- User searches for specific item/room based on their needs.
+- User schedules item/room successfully and receives a confirmation message and instructions for pickup.
+- Admin enters landing page, logs into the system, and monitors website activity.
+- Admin modifies the availability of spcific items/rooms based on current events.
+
+## Beyond the basics
+
+After implementing the basic functionality, here are ideas for more advanced features:
+- An option for users to put up their own resources to contribute as a common campus resource.
+- A timeline for each item's availability if unavailable on certain periods of time and when they will be available again.
+- A page to report any issues or concerns with borrowed equipment/locations.
+- Notify users through email or SMS when a particular resource is available for scheduling.
+
 <img width="100px" class="rounded float-start pe-4" src="../img/schedule.png">
