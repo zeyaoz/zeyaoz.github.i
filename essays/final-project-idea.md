@@ -8,7 +8,7 @@ labels:
   - Nextjs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/schedule.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/schedule.png">
 
 ## Overview 
 
