@@ -8,7 +8,7 @@ labels:
   - Nextjs
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/schedule.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/schedule.png">
 
 ## Overview 
 
@@ -72,5 +72,3 @@ After implementing the basic functionality, here are ideas for more advanced fea
 - A timeline for each item's availability if unavailable on certain periods of time and when they will be available again.
 - A page to report any issues or concerns with borrowed equipment/locations.
 - Notify users through email or SMS when a particular resource is available for scheduling.
-
-<img width="100px" class="rounded float-start pe-4" src="../img/schedule.png">
