@@ -29,3 +29,12 @@ This is the group that will be working on the **Campus Resource Scheduler**.
 - Eric Chae (https://ericc808.github.io/)
 - Sungwon Han (https://hanswhan.github.io/)
 - Zeyao Zhou (https://zeyaoz.github.io/)
+
+## Mockup Page Ideas
+
+This project will be structured like a renting/borrowing website with a central authority. 
+**Roles:** 
+Users will be able to log into the website, browse the directory for resources that are relevant to them through a specialized search function, and reserve items or rooms for later pick up and use. 
+Site Admins will be able to monitor the users that log into the website, see what resources they have used and borrowed, manage who can borrow what item, and add additional functionality to the website itself.
+
+<img width="100px" class="rounded float-start pe-4" src="../img/schedule.png">
