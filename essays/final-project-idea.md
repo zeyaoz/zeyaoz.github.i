@@ -32,7 +32,7 @@ This is the group that will be working on the **Campus Resource Scheduler**.
 
 ## Mockup Page Ideas
 
-This project will be structured like a renting/borrowing website with a central authority. 
+This project will be structured similar to a renting/borrowing website with a central authority who manages what items can be borrowed and who can borrow them. 
 
 **Roles:** 
 Users will be able to log into the website, browse the directory for resources that are relevant to them through a specialized search function, and reserve items or rooms for later pick up and use. 
