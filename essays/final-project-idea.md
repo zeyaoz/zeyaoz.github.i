@@ -25,10 +25,10 @@ As a web project centered around the UH Mānoa community, the **Campus Resource 
 ## The Group Behind the Project
 
 This is the group that will be working on the **Campus Resource Scheduler**.
-- Arthur Acenas [https://acenasa.github.io/](https://acenasa.github.io/)
-- Eric Chae [https://ericc808.github.io/](https://ericc808.github.io/)
-- Sungwon Han [https://hanswhan.github.io/](https://hanswhan.github.io/)
-- Zeyao Zhou [https://zeyaoz.github.io/](https://zeyaoz.github.io/)
+- Arthur Acenas ([https://acenasa.github.io/](https://acenasa.github.io/))
+- Eric Chae ([https://ericc808.github.io/](https://ericc808.github.io/))
+- Sungwon Han ([https://hanswhan.github.io/](https://hanswhan.github.io/))
+- Zeyao Zhou ([https://zeyaoz.github.io/](https://zeyaoz.github.io/))
 
 ## Mockup Page Ideas
 
