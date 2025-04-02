@@ -22,6 +22,10 @@ As students attend their everyday classes at UH Mānoa, they may forget to bring
 
 As a web project centered around the UH Mānoa community, the **Campus Resource Scheduler** seeks to solve these problems by providing a central hub where common campus resources, rooms, and labs can be lent out to those in need of these resources. Students can choose between what kind of resource they would like to receive for a set duration of time, regulated by the usage of accounts for authentication. Students will be able to see what resources and rooms are available or not as they access the website and return resources for community use.
 
+## Special Sauce
+
+As users decide what item to request or what room to schedule to fit their needs, a AI-powered algorithm can be added to reccomend specific resources that are available to students. Using natural language processing and machine learning, the AI can process the user's custom message request and generate a response and reccomendation based on that specific request. AI will also be able to gather information from the students profile from profile creation, classifies the user based on their profile and generate a custom dashboard that displays available items/rooms for scheduling. The AI will only choose resources that are available, and also gives advice on how to use specific resources to users who may be considering scheduling the resources.
+
 ## The Group Behind the Project
 
 This is the group that will be working on the **Campus Resource Scheduler**.
