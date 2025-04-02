@@ -58,7 +58,7 @@ There will be 2 main categories for equipment and physical spaces. These 2 main 
 - Rent Rooms/Labs Page
 - Return Rooms/Labs Page
 - Admin Home Page
-- Configure Resourced Page
+- Configure Resources Page
 
 ## Use Case Ideas
 
