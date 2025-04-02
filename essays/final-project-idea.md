@@ -28,7 +28,7 @@ This is the group that will be working on the **Campus Resource Scheduler**.
 - Arthur Acenas ([https://acenasa.github.io/](https://acenasa.github.io/))
 - Eric Chae ([https://ericc808.github.io/](https://ericc808.github.io/))
 - Sungwon Han ([https://hanswhan.github.io/](https://hanswhan.github.io/))
-- Ralph Uy ([](https://ralph-uy-aes.github.io/))
+- Ralph Uy ([https://ralph-uy-aes.github.io/](https://ralph-uy-aes.github.io/))
 - Zeyao Zhou ([https://zeyaoz.github.io/](https://zeyaoz.github.io/))
 
 ## Mockup Page Ideas
