@@ -24,7 +24,7 @@ As a web project centered around the UH Mānoa community, the **Campus Resource 
 
 ## Special Sauce
 
-As users decide what item to request or what room to schedule to fit their needs, a AI-powered algorithm can be added to reccomend specific resources that are available to students. Using natural language processing and machine learning, the AI can process the user's custom message request and generate a response and reccomendation based on that specific request. AI will also be able to gather information from the students profile from profile creation, classifies the user based on their profile and generate a custom dashboard that displays available items/rooms for scheduling. The AI will only choose resources that are available, and also gives advice on how to use specific resources to users who may be considering scheduling the resources.
+As users decide what item to request or what room to schedule to fit their needs, an AI-powered algorithm can be added to recommend specific resources that are available to students. Using natural language processing and machine learning, the AI can process the user's custom message request and generate a response and recommendation based on that specific request. AI will also be able to gather information from the student's profile from profile creation, classify the user based on their profile, and generate a custom dashboard that displays available items/rooms for scheduling. The AI will only choose available resources, and also gives advice on how to use specific resources to users who may be considering scheduling the resources.
 
 ## The Group Behind the Project
 
