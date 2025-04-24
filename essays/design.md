@@ -10,7 +10,7 @@ labels:
   - UI Design
 ---
 
-<img width="100px" class="rounded pe-4" src="../img/flowers.jpg">
+<img width="100px" class="rounded" src="../img/flowers.jpg">
 
 ### A Very Important Presentation
 
@@ -54,4 +54,4 @@ Through all of this searching and agonizing over the right pattern to use, the y
 
 ### **Now that I have my foundation, it is time to construct the prettiest project of my journey.**
 
-<img width="100px" class="rounded float-start pe-4" src="../img/flowers.jpg">
+<img width="100px" class="rounded" src="../img/flowers.jpg">
