@@ -4,7 +4,7 @@ type: essay
 title: "Branching in a Different Direction Once More: TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-21
-published: true
+published: false
 labels:
   - Programming
 ---
