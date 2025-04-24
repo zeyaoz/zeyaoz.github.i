@@ -2,7 +2,9 @@
 layout: essay
 type: essay
 title: "Final Project Idea"
-date: 2025-4-1
+# All dates must be YYYY-MM-DD format!
+date: 2025-04-01
+published: true
 labels:
   - Software Engineering
   - Nextjs
