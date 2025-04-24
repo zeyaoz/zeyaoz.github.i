@@ -10,7 +10,7 @@ labels:
   - UI Design
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/flowers.jpg">
+<img width="100px" class="rounded pe-4" src="../img/flowers.jpg">
 
 ### A Very Important Presentation
 
