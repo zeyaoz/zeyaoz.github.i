@@ -10,4 +10,4 @@ labels:
   - Time Management
 ---
 
-<img width="100px" class="rounded" src="../img/flowers.jpg">
+<img width="100px" class="rounded" src="../img/estimate.png">
