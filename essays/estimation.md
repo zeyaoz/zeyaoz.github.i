@@ -11,3 +11,15 @@ labels:
 ---
 
 <img width="100px" class="rounded" src="../img/estimate.png">
+
+### Making my Effort Estimates
+
+
+
+### Making my Effort Estimates Early
+
+### Making me Effort Estimates Beneficial
+
+### Making my Effort Estimates Accurate
+
+### Making my Effort Estimates Worthwhile
