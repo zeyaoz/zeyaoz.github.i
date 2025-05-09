@@ -42,36 +42,50 @@ I have used AI for this element. As a student of UH Mānoa, it was unchallenging
 
 ### 6. Learning a concept / tutorial
 
-I have never used AI for this element. Traditional methods of learning such as reading documentation or watching screencasts have always been more digestible to me, so I never had a reason to use AI in this aspect. 
+I have never used AI for this element. Traditional methods of learning such as reading documentation or watching screencasts have always been more digestible to me, so I never had a reason to use AI in this aspect. Rather than spending time learning a concept through a intermediary, I decided to receive my information directly from the source material of various subjects and topics. 
 
 ### 7. Answering a question in class or in Discord
 
-I have never used AI for this element. I believe that to answer a question asked by another student, one must be competent in that subject without having to consult other resources. Therefore, I will never use AI to answer someone else's question or give someone else an answer that was AI-generated. All answers will therefore have come from my own analysis and reasoning.
+I have never used AI for this element. I believe that to answer a question asked by another student, one must be competent in that subject without having to consult other resources. Therefore, I will never use AI to answer someone else's question or give someone else an answer that was AI-generated. All answers will therefore have come from my own analysis and reasoning. This way, I will be better equipped to handle follow-up questions or requests to expand on my reasoning.
 
 ### 8. Asking or answering a smart-question
 
-I have never used AI for this element. Since I am competent at writing, I will never ask AI to write questions for me to ask. In regards to answering question, my response above still applies to this aspect. All my answers to questions have been made from a point of comprehension of the topic at hand, and I will not give responses if I still have to ask for the same responses from AI.
+I have never used AI for this element. Since I am competent at writing, I will never ask AI to write questions for me to ask. In regards to answering question, my response above still applies to this aspect. All my answers to questions have been made from a point of comprehension of the topic at hand, and I will not give responses if I still have to ask for the same responses from AI. If I had to ask AI to answer a question, it would be more advantageous for the recipient to ask AI themselves, and remove the middleman.
 
 ### 9. Coding example e.g. “give an example of using Underscore .pluck”
 
-I have never used AI for this element. I prefer to construct my own coding examples, as I can use traditional sources of learning such as documentation to reinforce my understanding of these subjects. 
+I have never used AI for this element. I prefer to construct my own coding examples, as I can use traditional sources of learning such as documentation to reinforce my understanding of these subjects. Therefore, I did not need to use AI for an apsect of coding that I can perform very well myself.
 
 ### 10. Explaining code
 
-I have used AI for this element. Most commonly, I will ask AI to explain the code that it has generated itself in order to get a better understanding of it. I will not ask AI to explain my own code as I would not have written it had I not understood it.
+I have used AI for this element. Most commonly, I will ask AI to explain the code that it has generated itself in order to get a better understanding of it. I will not ask AI to explain my own code as I would not have written it had I not understood it. Therefore, this aspect is mainly a expansion of using AI for the purpose of WODs or projects, as it is extrememely detrimenal to one's learning if they do not understand the material they submit.
 
 ### 11. Writing code
 
-I have used AI for this element. WODs and the final project are all places where I have asked AI to write code, as I want to see the answer it provides and compare to see if it is beneficial to be used in my work. 
+I have used AI for this element. WODs and the final project are all places where I have asked AI to write code, as I want to see the answer it provides and compare to see if it is beneficial to be used in my work. As a major aspect of ICS 314, AI was helpful in producing quality code after a few revisions and enhancements. 
 
 ### 12. Documenting code
 
-I have never used AI for this element. Since I am competent at writing, I prefer to write my own documentation as I understand the code that I wrote the best. 
+I have never used AI for this element. Since I am competent at writing, I prefer to write my own documentation as I understand the code that I wrote the best. If I was to ask AI to document this code, I would need to revise the document to make it intelligible for me, which takes extra time compared to if I were to document my own code myself. This aspect of coding is also very enjoyable for me to complete, so I would not hand it off to AI only to revise it to the image that I want it in later.
 
 ### 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
 
-I have used AI for this element. Most commonly, I will ask AI to conduct QA testing on its own code that it has generated itself to fix any problems that could arise. 
+I have used AI for this element. Most commonly, I will ask AI to conduct QA testing on its own code that it has generated itself to fix any problems that could arise. If I did not do this, I would be left with unusable and broken code, which is undesirable. I would also ask AI in the QA aspect to hear a second perspective on potential problems and issues that may arise in code. 
 
 ### 14. Other uses in ICS 314 not listed
 
-I have not used AI for this element.
+I have not used AI for this element. All of the aspects listed above are all of the potential points where I might have used AI, and is all-encompassing in terms of my involvement in ICS 314.
+
+# III. Impact on Learning and Understanding:
+
+# IV. Practical Applications:
+
+# V. Challenges and Opportunities:
+
+# VI. Comparative Analysis:
+
+# VII. Future Considerations:
+
+# VIII. Conclusion:
+
+// In order to achieve the best results, we must not forget our own involvement in our academic journey.
