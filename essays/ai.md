@@ -68,7 +68,7 @@ I have used AI for this element. WODs and the final project are all places where
 
 I have never used AI for this element. Since I am competent at writing, I prefer to write my own documentation as I understand the code that I wrote the best. If I were to ask AI to document this code, I would need to revise the document to make it intelligible for me, which takes extra time compared to if I were to document my own code. This aspect of coding is also very enjoyable for me to complete, so I would not hand it off to AI only to revise it to the image that I want it in later.
 
-### 13. Quality assurance, e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+### 13. Quality assurance, e.g., "What’s wrong with this code <code here>" or "Fix the ESLint errors in <code here>"
 
 I have used AI for this element. Most commonly, I will ask AI to conduct QA testing on its own code that it has generated itself to fix any problems that could arise. If I did not do this, I would be left with unusable and broken code, which is undesirable. I would also ask AI in the QA aspect to hear a second perspective on potential problems and issues that may arise in code. 
 
@@ -78,7 +78,11 @@ I have not used AI for this element. All of the aspects listed above are potenti
 
 # III. Impact on Learning and Understanding:
 
+My professor in ICS 314 was a vocal advocate of using AI for any and all academic purposes, and I can also understand why they believed so. AI provides answers to questions in a well-explained, comprehensive, and quality manner so that the student does not have to face many of the hardships that come with asking questions to another human. Combined with the short timeframe required to receive answers, it is no wonder why I was compelled to use AI in order to enhance my learning experience. After using AI throughout the course of ICS 314, I can state that AI has improved my understanding of software engineering concepts 
+
 # IV. Practical Applications:
+
+As AI develops to be more robust and competent at software engineering tasks, it will definitely see an increased use in places beyond the classroom. For instance, many techical courses in colleges around the world can have subject questions answered by AI. However, AI is currently not developed enough to consistently perform at a high level without help from human handlers who correct its mistakes and errors. AI's current role can be described as a low-level teacher of basic, surface-level concepts, a job at which it excels at. 
 
 # V. Challenges and Opportunities:
 
