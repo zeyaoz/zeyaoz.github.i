@@ -68,7 +68,7 @@ I have used AI for this element. WODs and the final project are all places where
 
 I have never used AI for this element. Since I am competent at writing, I prefer to write my own documentation as I understand the code that I wrote the best. If I were to ask AI to document this code, I would need to revise the document to make it intelligible for me, which takes extra time compared to if I were to document my own code. This aspect of coding is also very enjoyable for me to complete, so I would not hand it off to AI only to revise it to the image that I want it in later.
 
-### 13. Quality assurance, e.g., "What’s wrong with this code <code here>" or "Fix the ESLint errors in <code here>"
+### 13. Quality assurance, e.g., \"What's wrong with this code <code here>" or "Fix the ESLint errors in <code here>\"
 
 I have used AI for this element. Most commonly, I will ask AI to conduct QA testing on its own code that it has generated itself to fix any problems that could arise. If I did not do this, I would be left with unusable and broken code, which is undesirable. I would also ask AI in the QA aspect to hear a second perspective on potential problems and issues that may arise in code. 
 
@@ -87,6 +87,8 @@ As AI develops to be more robust and competent at software engineering tasks, it
 # V. Challenges and Opportunities:
 
 # VI. Comparative Analysis:
+
+The difference betweem traditional teachin methods and AI-enhanced approaches in the context of software engineering education can be summed up as different distributions of effort. 
 
 # VII. Future Considerations:
 
