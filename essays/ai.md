@@ -10,6 +10,8 @@ labels:
   - Software Engineering
 ---
 
+<img width="1000px" class="rounded" src="../img/ai.jpg">
+
 // Should we all strive to achieve the best result using any means necessary?
 
 # I. Introduction
