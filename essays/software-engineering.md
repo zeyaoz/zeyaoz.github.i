@@ -9,3 +9,4 @@ labels:
   - Software Engineering
 ---
 
+<img width="612px" class="rounded" src="../img/journey.jpg">
