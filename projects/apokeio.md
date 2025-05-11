@@ -4,7 +4,7 @@ type: project
 image: img/PokeIcon.png
 title: "Pokemon I/O function showcase in C"
 date: 2024
-published: true
+published: false
 labels:
   - Vim
   - Unix
