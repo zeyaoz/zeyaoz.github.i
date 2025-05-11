@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/crs.png
+image: img/crslogo.png
 title: "Campus Resource Application Project"
 date: 2025
 published: true
