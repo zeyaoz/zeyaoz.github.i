@@ -12,4 +12,4 @@ labels:
 summary: "An application where students in need accross the UH campuses can borrow resources for use."
 ---
 
-<img width="235px" src="../img/crs.png" class="img-thumbnail" >
+<img width="540px" src="../img/crs.png">
