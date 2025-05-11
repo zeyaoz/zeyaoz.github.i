@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/crslogo.png
-title: "Campus Resource Application Project"
+title: "Campus Resource Scheduler Application Project"
 date: 2025
 published: true
 labels:
