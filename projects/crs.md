@@ -18,7 +18,7 @@ The Campus Resource Scheduler (CRS) was an application I develope with 4 other s
 
 ## Overview
 
-![](images/landing.png)
+![](img/landing.png)
 
 As a part of the University of Hawai'i (UH) community, this project team wanted to solve a problem common to all students attending school on a UH campus - where to borrow a resource that they will need for some time? The Campus Resource Scheduler or CRS application aims to solve this problem by providing a central hub of both physical resources and locational resources to any UH community member who may need it for a set time. This system stores an online database of available resources that users can choose from, pick up at a specified location, and return to the same location. 
 
