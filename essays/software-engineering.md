@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="612px" class="rounded" src="../img/journey.jpg">
+<img style="width:612%, height:auto" class="rounded" src="../img/journey.jpg">
 
 ### The Beginning.
 
@@ -17,10 +17,10 @@ Upon first stepping into my first class of ICS 314 - Software Engineering, I did
 
 ### The Middle.
 
-Learning functional programming broadened my toolset, but I was still missing half of the web project conditions. The matter of the User Interface (UI) decided how a project was going to look from the outside, a major part of the user experience. To handle this issue, User Interface Frameworks were taught to us for which we used in the creation of a few testing pages. Although just another expansion to the web development arsenal, learning these frameworks taught me the importance of presentation and how it affects the design and functionality of a project.
+Learning functional programming broadened my toolset, but I was still missing half of the web project conditions. The matter of the User Interface (UI) decided how a project was going to look from the outside, a major part of the user experience. To handle this issue, User Interface Frameworks were taught to us for which we used in the creation of a few testing pages. Although just another expansion to the web development arsenal, learning these frameworks taught me the importance of presentation and how it affects the design and functionality of a project. Even small details should never be overlooked in the pursuit of the most wonderful products.
 
 ### The End.
 
-Going into the project with my team, I had doubts about finishing the entire project in the little time we had. Managing the time available was going to be a substantial concern for us. The concepts of Agile Project Management made us break the entire project down into manageable phases, which were then split up into many issues to be tackled. This interative approach to managing projects made the process extremely smooth and efficient, with each team member knowing what to do at all times. As the semester was rounded off with the completion of the web project, this method of project management is something I will always bring with me as I continue my academic journey, even outside of software development.
+Going into the project with my team, I had doubts about finishing the entire project in the little time we had. Managing the time available was going to be a substantial concern for us. The concepts of Agile Project Management made us break the entire project down into manageable phases, which were then split up into many issues to be tackled. This interative approach to managing projects made the process extremely smooth and efficient, with each team member knowing what to do at all times. As the semester was rounded off with the completion of the web project, this method of project management is something I will always bring with me as I continue my academic journey, even outside of software development. Now with all of these tools I have gathered over the course of the beginning, they will now accompany me to the end.
 
 // The end of this path is just the beginning to another journey.
