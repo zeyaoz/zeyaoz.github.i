@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img style="width:612%, height:auto" class="rounded" src="../img/journey.jpg">
+<img style="width:100%, height:auto" class="rounded" src="../img/journey.jpg">
 
 ### The Beginning.
 
