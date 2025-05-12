@@ -18,7 +18,7 @@ The Campus Resource Scheduler (CRS) was an application I develope with 4 other s
 
 ## Overview
 
-![](img/landing.png)
+![](../img/landing.png)
 
 As a part of the University of Hawai'i (UH) community, this project team wanted to solve a problem common to all students attending school on a UH campus - where to borrow a resource that they will need for some time? The Campus Resource Scheduler or CRS application aims to solve this problem by providing a central hub of both physical resources and locational resources to any UH community member who may need it for a set time. This system stores an online database of available resources that users can choose from, pick up at a specified location, and return to the same location. 
 
@@ -28,6 +28,6 @@ Users who engage with the CRS application will be able to customize their profil
 
 ## My Role
 
-My role in this project was to manage the overall direction of the project through creating issues in each of the 3 project phases (M1, M2, M3) for the team members to complete.
+My role in this project was to manage the overall direction of the project through creating issues in each of the 3 project phases ([M1](https://github.com/orgs/campus-resource-scheduler-project/projects/1), [M2](https://github.com/orgs/campus-resource-scheduler-project/projects/2), [M3](https://github.com/orgs/campus-resource-scheduler-project/projects/4)) for the team members to complete. I also wrote and finalized all of the documentation on the GitHub page regarding the project overviews, mockup page ideas, user guide, developer guide, and community feedback sections. Within the team, I also directed each team member for guidance on how the User Interface (UI) of each page should look like. As the primary project manager and the leader for design choices, I made decisions that decided how the application would look like and what functionality it would have. In addition, I also was responsible for creating the "Your Resources" page within the application.
 
 ## Lessons Learned
