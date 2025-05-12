@@ -14,4 +14,4 @@ summary: "An application where students in need accross the UH campuses can borr
 
 <img width="540px" src="../img/crs.png">
 
-
+The Campus Resource Scheduler (CRS) was an application I develope with 4 other students over the course of my Software Engineering class. Here is the (GitHub Page)[https://campus-resource-scheduler-project.github.io/] and the (GitHub Organization)[https://github.com/campus-resource-scheduler-project] for the project.
